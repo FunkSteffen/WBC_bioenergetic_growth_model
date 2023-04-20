@@ -8,7 +8,7 @@ output: html_document
 ## Background:
 Here you get access to an individual-based bioenergetic growth model which is set up to model the growth of cod in ages 2 to 4 (*Gadus morhua* L.) in the Belt Sea (western part of the Western Baltic Sea) on a daily basis within one year. The model incorporates contemporary in-situ process knowledge on food intake and seasonal- and temperate-related spatial distribution of cod and allows to identify seasonal growth patterns. For a detailed description of the model (i.e., explanation of equations, submodels used etc.) we refer to the corresponding article by **Funk et al. (currently under review)**.
 
-![](images/figure1_proto.png?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## Information on the model script:
 The model script contains several functions which are defined in the beginning of the script and corresponding examples which explain how to use the above defined functions.
