@@ -8,7 +8,9 @@ output: html_document
 ## Background:
 Here you get access to an individual-based bioenergetic growth model which is set up to model the growth of cod in ages 2 to 4 (*Gadus morhua* L.) in the Belt Sea (western part of the Western Baltic Sea) on a daily basis within one year. The model incorporates contemporary in-situ process knowledge on food intake and seasonal- and temperate-related spatial distribution of cod and allows to identify seasonal growth patterns. For a detailed description of the model (i.e., explanation of equations, submodels used etc.) we refer to the corresponding article by **Funk et al. (currently under review)**.
 
-![alt text](https://github.com/FunkSteffen/WBC_bioenergetic_growth_model/blob/main/figure1_proto.png?raw=true)
+|![alt text](https://github.com/FunkSteffen/WBC_bioenergetic_growth_model/blob/main/figure1_proto.png?raw=true)|
+|:--:| 
+|**Set-up of the individual-based bioenergetic growth model.** a) Schematic representation of important model components and their influence on growth: (1) temperature conditions (SST and TDiff, see Material and methods) (2) temperature at residence depth, (3) food availability and intake, (4) physiological processes, and (5) growth in length. b) Functional pathways (arrows) within the bioenergetic model: rectangles denote temperature variables (SST and TDiff), diamonds denote estimates derived from sub-models I-III; grey ellipses indicate estimates based on published physiological functions; hexagons display cod individual length and weight. i – time step, j – size, k – diet cluster.|
 
 ## Information on the model script:
 The model script contains several functions which are defined in the beginning of the script and corresponding examples which explain how to use the above defined functions.
